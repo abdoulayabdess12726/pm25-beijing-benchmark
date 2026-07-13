@@ -1,0 +1,12 @@
+numpy
+pandas
+scipy
+scikit-learn
+statsmodels
+xgboost
+matplotlib
+torch>=2.0
+torch-geometric
+# report generation (generate_report.py, modify_article.py)
+python-docx
+reportlab
